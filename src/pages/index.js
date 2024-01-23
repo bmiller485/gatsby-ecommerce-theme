@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'Just what you didn't know you needed'}
+        subtitle={'Discover New Products for Winter 2024'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -39,12 +39,8 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
-        </p>
-        <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          More products and better content coming soon from{' '}
+          <span className={styles.gold}>blowzie designs.</span>
         </p>
       </div>
 

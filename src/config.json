@@ -12,9 +12,9 @@
     { "value": "mandarin", "label": "普通话" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
+    "facebook": "https://www.facebook.com/Blowzie/",
     "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
+    "twitter": "https://twitter.com/Blowzie",
     "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
   },
   "paymentOptions": {
@@ -79,11 +79,11 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "tshirts",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "hats",
               "menuLink": "/shop"
             }
           ]
@@ -100,24 +100,20 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "tshirts",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
+              "menuLabel": "hats",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "other",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "electronic signs",
               "menuLink": "/shop"
             },
             {
