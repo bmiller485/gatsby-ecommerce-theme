@@ -31,10 +31,6 @@
           "link": "/about"
         },
         {
-          "text": "Journal",
-          "link": "/blog"
-        },
-        {
           "text": "Privacy Policy",
           "link": "/support#policy"
         }
@@ -68,48 +64,6 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
-          "submenu": [
-            {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "tshirts",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "hats",
-              "menuLink": "/shop"
-            }
-          ]
-        },
-        {
-          "categoryLabel": "men",
-          "submenu": [
-            {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "tshirts",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "hats",
-              "menuLink": "/shop"
-            }
-          ]
-        },
-        {
           "categoryLabel": "other",
           "submenu": [
             {
@@ -121,13 +75,26 @@
               "menuLink": "/shop"
             }
           ]
+        },
+        {
+       
+          "categoryLabel": "apparel",
+          "submenu": [
+            {
+              "menuLabel": "sweatshirts & hoodies",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "tshirts",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "hats",
+              "menuLink": "/shop"
+            }
+          ]
         }
       ]
-    },
-    {
-      "menuLabel": "journal",
-      "menuLink": "/blog",
-      "category": null
     },
     {
       "menuLabel": "About",

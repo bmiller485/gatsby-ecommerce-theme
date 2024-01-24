@@ -36,17 +36,17 @@ const ShopPage = (props) => {
             <Breadcrumbs
               crumbs={[
                 { link: '/', label: 'Home' },
-                { link: '/', label: 'Woman' },
-                { label: 'Sweaters' },
+                { link: '/', label: 'Products' },
+                { label: 'Cool Stuff' },
               ]}
             />
           </div>
         </Container>
         <Banner
           maxWidth={'650px'}
-          name={`Woman's Sweaters`}
+          name={'Cool Stuff'}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'You want to be happy.  We want you to be happy.  Buy some of our cool stuff and we\'ll call it a win-win.'
           }
         />
         <Container size={'large'} spacing={'min'}>
